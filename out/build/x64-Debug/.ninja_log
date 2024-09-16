@@ -1,0 +1,11 @@
+# ninja log v5
+26	103	0	C:/Users/Google Tech/Desktop/all_oop_exercises/oop2_exercises/oop2_ex4/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	6568f0eeb38c598d
+130	7674	7154611791316164	CMakeFiles/oop2_ex04.dir/src/Hexagon.cpp.obj	bfc2370edf104009
+107	7697	7154611791605393	CMakeFiles/oop2_ex04.dir/src/Manager.cpp.obj	d825f23ac0bb24c0
+133	7892	7154611793570145	CMakeFiles/oop2_ex04.dir/src/ToolBar.cpp.obj	35dc8e844f56af4c
+123	7909	7154611793729705	CMakeFiles/oop2_ex04.dir/src/Controller.cpp.obj	90e697f2a6787876
+104	7934	7154611794008952	CMakeFiles/oop2_ex04.dir/src/main.cpp.obj	b13cd5eb4be9efe5
+126	8327	7154611797988314	CMakeFiles/oop2_ex04.dir/src/Board.cpp.obj	7cef5edcd85aff94
+138	8521	7154611799933131	CMakeFiles/oop2_ex04.dir/src/Bfs.cpp.obj	71b4588dc8f26916
+8521	9166	7154611805677752	oop2_ex04.exe	26070c7cbdf543bc
+8	34	0	C:/Users/Google Tech/Desktop/all_oop_exercises/oop2_exercises/oop2_ex4/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	6568f0eeb38c598d
